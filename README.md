@@ -2,7 +2,6 @@
 
 - 🎓 Estou estudando Análise e Desenvolvimento de Sistemas
 - :tada: Tenho 27 anos
-- 📚 Estudante de 
 - ✉️ meu e-mail: arthursantana364@outlook.com
   
 ##
