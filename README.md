@@ -2,7 +2,7 @@
 
 - 🎓 Estou estudando Análise e Desenvolvimento de Sistemas
 - :tada: Tenho 27 anos
-- ✉️ meu e-mail: arthursantana364@outlook.com
+- ✉️ Meu E-mail: arthursantana364@outlook.com
   
 ##
   
@@ -17,7 +17,8 @@
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img align="center" alt="AWS" src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma"/>
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma"/>
+  <img align="center" alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   
 </div>
   
