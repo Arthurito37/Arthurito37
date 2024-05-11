@@ -2,17 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosvinicius-ai&color=blueviolet" alt="Profile views" /> </p>
 
-- 🎓 Estou estudando Ciências da Computação
+- 🎓 Estou estudando Análise e Desenvolvimento de Sistemas
 - :tada: Tenho 27 anos
-- 📚 Estudante de análise e desenvolvimento de sistemas
+- 📚 Estudante de 
 - ✉️ meu e-mail: arthursantana364@outlook.com
-
-  [![card](https://github-readme-stats.vercel.app/api?username=carlosvinicius-ai&theme=tokyonight&show_icons=true)](https://github.com/carlosvinicius-ai/)
-  <br>
-  <br>
-  [![carlosvinicius-ai](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvinicius-ai&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
   
 ##
   
