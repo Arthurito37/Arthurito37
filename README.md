@@ -42,4 +42,4 @@
  
 </div>
 
-  ![Snake animation](https://github.com/carlosvinicius-ai/carlosvinicius-ai/blob/output/github-contribution-grid-snake.svg)
+
