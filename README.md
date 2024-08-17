@@ -44,5 +44,5 @@
 </div>
 
 <div>
-  <a herf="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurito37&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"></a>
+  <a herf="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurito37&hide=html&theme=radical)](https://github.com/Arthurito37/github-readme-stats)"></a>
 </div>
