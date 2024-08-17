@@ -46,4 +46,4 @@
 </div>
 
 [![card](https://github-readme-stats.vercel.app/api?username=Arthurito37&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Arthur](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurito37&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
