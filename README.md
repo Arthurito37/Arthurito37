@@ -42,7 +42,7 @@
   <a href="https://t.me/arthurito37" target="_blank"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0"></a> 
  
 </div>
-
+  [![card](https://github-readme-stats.vercel.app/api?username=Arthurito37&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <div>
-  <a herf="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurito37&hide=html&theme=radical)](https://github.com/Arthurito37/github-readme-stats)"></a>
+  
 </div>
