@@ -41,8 +41,9 @@
   <a href="https://www.instagram.com/arthurito37/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
   <a href="https://t.me/arthurito37" target="_blank"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0"></a> 
  
-</div>
-  [![card](https://github-readme-stats.vercel.app/api?username=Arthurito37&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<div>
+
   
 </div>
+
+[![card](https://github-readme-stats.vercel.app/api?username=Arthurito37&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
