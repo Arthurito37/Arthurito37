@@ -22,6 +22,7 @@
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma"/>
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Godot_Engine-696969?style=for-the-badge&logo=godot&logoColor=white)](https://godotengine.org">
 
 
   
