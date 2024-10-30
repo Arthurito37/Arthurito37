@@ -20,9 +20,10 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma"/>
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Godot_Engine-696969?style=for-the-badge&logo=godot&logoColor=white)](https://godotengine.org">
+  <img align="center" alt="Godot" src="https://img.shields.io/badge/Godot_Engine-696969?style=for-the-badge&logo=godot&logoColor=white)](https://godotengine.org">
 
 
   
