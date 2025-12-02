@@ -1,7 +1,7 @@
 # Olá! Eu sou Arthur de Sousa Santana! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 - 🎓 Estou estudando Análise e Desenvolvimento de Sistemas
-- :tada: Tenho 27 anos
+- :tada: Tenho 28 anos
 - ✉️ Meu E-mail: arthursantana364@outlook.com
   
 ##
@@ -49,5 +49,5 @@
   
 </div>
 
-[![card](https://github-readme-stats.vercel.app/api?username=Arthurito37&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/Arthurito37)
 [![Arthur](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurito37&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
